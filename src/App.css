@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.heart-btn {
+  transition: color 0.3s ease;
+}
+
+.heart-btn:hover {
+  color: darkred; /* Add a hover effect */
+}
+
